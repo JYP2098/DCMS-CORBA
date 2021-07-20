@@ -1,0 +1,30 @@
+Jul 05, 2021 1:13:21 AM ServerImplementation.DDOClass <init>
+INFO: DDO server in running
+Jul 05, 2021 1:13:21 AM ServerImplementation.DDOClass createSRecord
+INFO: DDO0000 created a student record ID:SR30000
+Jul 05, 2021 1:13:21 AM ServerImplementation.DDOClass createSRecord
+INFO: DDO0000 created a student record ID:SR30001
+Jul 05, 2021 1:13:21 AM ServerImplementation.DDOClass createTRecord
+INFO: DDO0000 created a teacher record ID:TR30000
+Jul 05, 2021 1:13:21 AM ServerImplementation.DDOClass createTRecord
+INFO: DDO0000 created a teacher record ID:TR30001
+Jul 05, 2021 1:13:40 AM ServerImplementation.DDOClass displayAllRecords
+INFO: DDO1111 has displayed all records
+Jul 05, 2021 1:13:49 AM ServerImplementation.DDOClass displayRecord
+INFO: DDO1111 has displayed record SR30001
+Jul 05, 2021 1:14:15 AM ServerImplementation.DDOClass editRecord
+INFO: DDO1111 edited a student record ID:SR30001
+Jul 05, 2021 1:14:42 AM ServerImplementation.DDOClass editRecord
+INFO: DDO1111 edited a student record ID:SR30001
+Jul 05, 2021 1:14:47 AM ServerImplementation.DDOClass displayRecord
+INFO: DDO1111 has displayed record SR30001
+Jul 05, 2021 1:14:52 AM ServerImplementation.DDOClass displayAllRecords
+INFO: DDO1111 has displayed all records
+Jul 05, 2021 1:14:59 AM ServerImplementation.DDOClass getRecordCounts
+INFO: DDO1111 has retrieved the total record count
+Jul 05, 2021 1:15:12 AM ServerImplementation.DDOClass transferRecord
+INFO: SR30001has been transferred toMTLby DDO1111
+Jul 05, 2021 1:15:24 AM ServerImplementation.DDOClass transferRecord
+INFO: DDO1111 failed to transfer SR50001
+Jul 05, 2021 1:15:40 AM ServerImplementation.DDOClass transferRecord
+INFO: DDO1111 has failed to transfer SR50001

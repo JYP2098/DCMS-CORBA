@@ -1,0 +1,12 @@
+Jul 05, 2021 1:13:29 AM ServerImplementation.MTLClass <init>
+INFO: MTL server in running
+Jul 05, 2021 1:13:29 AM ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10000
+Jul 05, 2021 1:13:29 AM ServerImplementation.MTLClass createSRecord
+INFO: MTL0000 created a student record ID:SR10001
+Jul 05, 2021 1:13:29 AM ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10000
+Jul 05, 2021 1:13:29 AM ServerImplementation.MTLClass createTRecord
+INFO: MTL0000 created a teacher record ID:TR10001
+Jul 05, 2021 1:15:12 AM ServerImplementation.MTLClass recieveRecord
+INFO: SR30001 has been added to the mentioned server
